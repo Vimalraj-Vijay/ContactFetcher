@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactFetcher</string>
+    <string name="permission">Please Allow permissions</string>
+    <string name="permission_settings">Please Allow permissions. Go to app settings and allow</string>
+    <string name="empty_contact">No Contacts found</string>
+    <string name="incoming_call">Incoming Call</string>
+</resources>
